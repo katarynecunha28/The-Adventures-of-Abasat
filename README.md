@@ -1,7 +1,7 @@
 # The Adventures of Abasat
 
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3.32f1-blue?logo=unity)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Genre](https://img.shields.io/badge/Genre-2D%20Platformer-orange)
 
 **The Adventures of Abasat** é um jogo de plataforma 2D desenvolvido na engine **Unity**. O projeto foi concebido e desenvolvido em **2024** como parte dos requisitos práticos da disciplina de **Engenharia de Sistemas A** da **UERJ (Universidade do Estado do Rio de Janeiro)**.
